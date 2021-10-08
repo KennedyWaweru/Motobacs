@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    
+    <!-- Font Awesome -->
+    <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    rel="stylesheet"
+    />
+    <!-- Google Fonts -->
+    <link
+    href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+	<link href="https://fonts.googleapis.com/css2?family=Federo&family=Raleway&family=Roboto&display=swap" rel="stylesheet">
+    <!-- MDB -->
+   <!--  <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css"
+    rel="stylesheet"
+    /> -->
+    <!-- Logo Icon -->
+    <link rel="shortcut icon" type="image/png" href="images/logo.png"/>
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="css/custom.css">
+	<title>Cars | Motobacs</title>
+	<style>
+		.highlights h4{
+			border: 2px solid black ;
+		}
+	</style>
+</head>
+<body onload="displayYear()">
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<div class="container-fluid">
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<a class="navbar-brand" href="#">
+				<img src="images/logo.jpg"  width="50" height="50" alt="MOTOBACS logo">
+				
+					<strong>MOTOBACS</strong>
+					<!-- <p>Obsessed with Quality</p> -->
+				
+			</a>
+			<div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+					<li class="nav-item">
+						<a class="nav-link" aria-current="page" href="index.html">Home</a>
+					</li>
+					<li class="nav-item active">
+						<a class="nav-link" href="#">Cars</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="about.html">About Us</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="contact.html">Contact Us</a>
+					</li>
+				</ul>
+				<ul class="navbar-nav navbar-right">
+					<li class="nav-item me-3 me-lg-0">
+						<a class="nav-link" href="#" rel="nofollow">
+							<span class="phone">
+								<i class="fas fa-phone-alt fa-lg"></i>
+								+254722828929
+							</span>
+						</a>
+					</li>
+					<li class="nav-item me-3 me-lg-0">
+						<a class="nav-link" href="https://www.facebook.com/motobacskenya/" rel="nofollow" target="_blank">
+							<i class="fab fa-facebook-f"></i>
+						</a>
+					</li>
+					<li class="nav-item me-3 me-lg-0">
+						<a class="nav-link" href="#" rel="nofollow" target="_blank">
+							<i class="fab fa-instagram"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<section class="highlights">
+		<div class="container-fluid">
+			<h3 class="text-center py-5">Available Listings</h3>
+			<!-- <div class="btn-group py-2 filter-button-group" role="group" aria-label="Basic radio toggle button group">
+				<input type="radio" class="btn-check" data-filter="*" name="btnradio" id="btnradio1" autocomplete="off" checked>
+				<label class="btn btn-outline-primary" for="btnradio1">Show All</label>
+
+				<input type="radio" class="btn-check" data-filter=".even" name="btnradio" id="btnradio2" autocomplete="off">
+				<label class="btn btn-outline-primary" for="btnradio2">Toyota</label>
+
+				<input type="radio" class="btn-check" name="btnradio" data-filter=".odd" id="btnradio3" autocomplete="off">
+				<label class="btn btn-outline-primary" for="btnradio3">Nissan</label>
+
+				<input type="radio" class="btn-check" name="btnradio" data-filter=".prime" id="btnradio4" autocomplete="off">
+				<label class="btn btn-outline-primary" for="btnradio4">Mercedes-Benz</label>
+
+				<input type="radio" class="btn-check" name="btnradio" data-filter=".square" id="btnradio5" autocomplete="off">
+				<label class="btn btn-outline-primary" for="btnradio5">Volvo</label>
+			</div> -->
+			
+			<div class="row grid">
+				<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Mazda-Demio-2014-Gray/Mazda-Demio-2014-Gray-0.jpg" class="card-img-top" alt="Mazda Demio 2014 Gray">
+						<div class="card-body">
+							<h5 class="card-title text-center">Mazda Demio 2014 Gray</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>52000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 775,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Mazda-Demio-2014-Gray.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Audi-Q5-2014-White/Audi-Q5-2014-White-0.jpg" class="card-img-top" alt="Audi Q5 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Audi Q5 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>65000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 3,500,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Audi-Q5-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Toyota-Fielder-2014-Silver/Toyota-Fielder-2014-Silver-0.jpg" class="card-img-top" alt="Toyota Fielder 2014 Silver">
+						<div class="card-body">
+							<h5 class="card-title text-center">Toyota Fielder 2014 Silver</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>144000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,240,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Toyota-Fielder-2014-Silver.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Toyota-Vitz-2014-Silver/Toyota-Vitz-2014-Silver-0.jpg" class="card-img-top" alt="Toyota Vitz 2014 Silver">
+						<div class="card-body">
+							<h5 class="card-title text-center">Toyota Vitz 2014 Silver</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>75000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 825,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Toyota-Vitz-2014-Silver.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Suzuki-Alto-2014-Blue/Suzuki-Alto-2014-Blue-0.jpg" class="card-img-top" alt="Suzuki Alto 2014 Blue">
+						<div class="card-body">
+							<h5 class="card-title text-center">Suzuki Alto 2014 Blue</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>84000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 570,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Suzuki-Alto-2014-Blue.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Volvo-V40-2014-Blue/Volvo-V40-2014-Blue-0.jpg" class="card-img-top" alt="Volvo V40 2014 Blue">
+						<div class="card-body">
+							<h5 class="card-title text-center">Volvo V40 2014 Blue</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>105000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,590,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Volvo-V40-2014-Blue.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Toyota-Alphard-2014-White/Toyota-Alphard-2014-White-0.jpg" class="card-img-top" alt="Toyota Alphard 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Toyota Alphard 2014 White</h5>
+							<p class="card-text">Foreign Used<br>CVT<br>72000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 2,450,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Toyota-Alphard-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Audi-A4-2014-Silver/Audi-A4-2014-Silver-0.jpg" class="card-img-top" alt="Audi A4 2014 Silver">
+						<div class="card-body">
+							<h5 class="card-title text-center">Audi A4 2014 Silver</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>111000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 2,290,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Audi-A4-2014-Silver.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Suzuki-Solio-2014-Silver/Suzuki-Solio-2014-Silver-0.jpg" class="card-img-top" alt="Suzuki Solio 2014 Silver">
+						<div class="card-body">
+							<h5 class="card-title text-center">Suzuki Solio 2014 Silver</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>114000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 740,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Suzuki-Solio-2014-Silver.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Subaru-Forester-2014-White/Subaru-Forester-2014-White-0.jpg" class="card-img-top" alt="Subaru Forester 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Subaru Forester 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>135000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 2,390,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Subaru-Forester-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Suzuki-Alto-2014-Silver/Suzuki-Alto-2014-Silver-0.jpg" class="card-img-top" alt="Suzuki Alto 2014 Silver">
+						<div class="card-body">
+							<h5 class="card-title text-center">Suzuki Alto 2014 Silver</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>47000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 570,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Suzuki-Alto-2014-Silver.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Toyota-Vitz-2014-1.5-FWD-5dr-White/Toyota-Vitz-2014-1.5-FWD-5dr-White-0.jpg" class="card-img-top" alt="Toyota Vitz 2014 1.5 FWD 5dr White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Toyota Vitz 2014 1.5 FWD 5dr White</h5>
+							<p class="card-text">Foreign Used<br>Petrol<br>CVT<br>106000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 950,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Toyota-Vitz-2014-1.5-FWD-5dr-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/BMW-X1-2014-White/BMW-X1-2014-White-0.jpg" class="card-img-top" alt="BMW X1 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">BMW X1 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>104000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 2,250,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="BMW-X1-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Mercedes-Benz-C180-2014-White/Mercedes-Benz-C180-2014-White-0.jpg" class="card-img-top" alt="Mercedes Benz C180 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Mercedes Benz C180 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>104000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 3,490,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Mercedes-Benz-C180-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Mazda-Demio-2014-White/Mazda-Demio-2014-White-0.jpg" class="card-img-top" alt="Mazda Demio 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Mazda Demio 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>122000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 730,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Mazda-Demio-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Nissan-Juke-2014-Red/Nissan-Juke-2014-Red-0.jpg" class="card-img-top" alt="Nissan Juke 2014 Red">
+						<div class="card-body">
+							<h5 class="card-title text-center">Nissan Juke 2014 Red</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>94000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,345,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Nissan-Juke-2014-Red.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Subaru-Impreza-2014-White/Subaru-Impreza-2014-White-0.jpg" class="card-img-top" alt="Subaru Impreza 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Subaru Impreza 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>92000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,320,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Subaru-Impreza-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Suzuki-Van-2014-White/Suzuki-Van-2014-White-0.jpg" class="card-img-top" alt="Suzuki Van 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Suzuki Van 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>130000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 690,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Suzuki-Van-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Suzuki-Wagon-2014-Pink/Suzuki-Wagon-2014-Pink-0.jpg" class="card-img-top" alt="Suzuki Wagon 2014 Pink">
+						<div class="card-body">
+							<h5 class="card-title text-center">Suzuki Wagon 2014 Pink</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>114000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 590,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Suzuki-Wagon-2014-Pink.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Toyota-Axio-2014-1.5-Hybrid-G-2WD/Toyota-Axio-2014-1.5-Hybrid-G-2WD-0.jpg" class="card-img-top" alt="Toyota Axio 2014 1.5 Hybrid G 2WD">
+						<div class="card-body">
+							<h5 class="card-title text-center">Toyota Axio 2014 1.5 Hybrid G 2WD</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>55000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,230,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Toyota-Axio-2014-1.5-Hybrid-G-2WD.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Honda-Stepwgn-2014-Gray/Honda-Stepwgn-2014-Gray-0.jpg" class="card-img-top" alt="Honda Stepwgn 2014 Gray">
+						<div class="card-body">
+							<h5 class="card-title text-center">Honda Stepwgn 2014 Gray</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>137000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,550,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Honda-Stepwgn-2014-Gray.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Honda-Fit-Shuttle-2014-1.3-Hybrid-2WD-Silver/Honda-Fit-Shuttle-2014-1.3-Hybrid-2WD-Silver-0.jpg" class="card-img-top" alt="Honda Fit Shuttle 2014 1.3 Hybrid 2WD Silver">
+						<div class="card-body">
+							<h5 class="card-title text-center">Honda Fit Shuttle 2014 1.3 Hybrid 2WD Silver</h5>
+							<p class="card-text">Foreign Used<br>Hybrid<br>Automatic<br>74000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,040,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Honda-Fit-Shuttle-2014-1.3-Hybrid-2WD-Silver.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Honda-Fit-Shuttle-2014-1.3-Hybrid-2WD-White/Honda-Fit-Shuttle-2014-1.3-Hybrid-2WD-White-0.jpg" class="card-img-top" alt="Honda Fit Shuttle 2014 1.3 Hybrid 2WD White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Honda Fit Shuttle 2014 1.3 Hybrid 2WD White</h5>
+							<p class="card-text">Foreign Used<br>Hybrid<br>Automatic<br>113000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,050,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Honda-Fit-Shuttle-2014-1.3-Hybrid-2WD-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Nissan-X-Trail-2014-Black/Nissan-X-Trail-2014-Black-0.jpg" class="card-img-top" alt="Nissan X Trail 2014 Black">
+						<div class="card-body">
+							<h5 class="card-title text-center">Nissan X Trail 2014 Black</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>101000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 2,250,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Nissan-X-Trail-2014-Black.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Toyota-Harrier-2014-2.0-4WD-Black/Toyota-Harrier-2014-2.0-4WD-Black-0.jpg" class="card-img-top" alt="Toyota Harrier 2014 2.0 4WD Black">
+						<div class="card-body">
+							<h5 class="card-title text-center">Toyota Harrier 2014 2.0 4WD Black</h5>
+							<p class="card-text">Foreign Used<br>Petrol<br>CVT</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 3,450,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Toyota-Harrier-2014-2.0-4WD-Black.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Honda-Fit-2014-White/Honda-Fit-2014-White-0.jpg" class="card-img-top" alt="Honda Fit 2014 White">
+						<div class="card-body">
+							<h5 class="card-title text-center">Honda Fit 2014 White</h5>
+							<p class="card-text">Foreign Used<br>Automatic<br>89000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 980,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Honda-Fit-2014-White.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+	
+
+		<div class="col-md-4 col-sm-12 element-item">
+					<div class="card border-success my-5 h-100">
+						<img src="images/Volvo-S60-2013-Silver/Volvo-S60-2013-Silver-0.jpg" class="card-img-top" alt="Volvo S60 2013 Silver">
+						<div class="card-body">
+							<h5 class="card-title text-center">Volvo S60 2013 Silver</h5>
+							<p class="card-text">Kenyan Used<br>Automatic<br>66000 km</p>
+							<span class="badge rounded-pill bg-info text-dark py-2">Kshs 1,450,000</span>
+						</div>
+						<div class="card-footer bg-transparent border-success text-center">
+							<a href="Volvo-S60-2013-Silver.html" role="button" class="btn btn-outline-success btn-lg">View</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<hr class="my-5">
+	<section class="footer bg-dark text-white">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-6 col-lg-4 col-sm-12">
+					<h3 class="text-center py-5">Quick <span class="text-custom">Links</span></h3>
+					<ul class="list-group list-group-flush">
+						<li class="list-group-item list-group-item-success"><a href="index.html">Home</a></li>
+						<li class="list-group-item list-group-item-success active"><a href="#">Cars</a></li>
+						<li class="list-group-item list-group-item-success"><a href="about.html">About</a></li>
+						<li class="list-group-item list-group-item-success"><a href="contact.html">Contact</a></li>
+						<!-- <li class="list-group-item"></li> -->
+					</ul>
+					<div class="call-area py-2">
+						<h5 class="text-center py-2">Office Hours</h5>
+						<p><i class="fas fa-clock" aria-hidden="true"></i> &nbsp; <b>Monday - Friday: </b> 08:00AM - 06:00PM</p>
+						<p><i class="fas fa-clock" aria-hidden="true"></i> &nbsp; <b>Saturday - Sunday: </b> 08:00AM - 06:00PM</p>
+					</div>
+				</div>
+				  
+				<div class="col-md-6 col-lg-4 col-sm-12">
+					<h3 class="text-center py-5">Visit <span class="text-custom">Us</span></h3>
+					<div class="map-iframe">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63820.356316386795!2d36.789741566627725!3d-1.3120394674165972!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10bddd535dbb%3A0xa66ab68f26e14e88!2sMOTOBACS!5e0!3m2!1sen!2ske!4v1633434811658!5m2!1sen!2ske" width="100%" height="100%" allowfullscreen="" loading="lazy"></iframe>
+					</div>
+					
+				</div>
+				<div class="col-md-12 col-lg-4 col-sm-12">
+					<h3 class="text-center py-5">Contact <span class="text-custom">Info</span></h3>
+					<div class="call-area text-center">
+						<h5>Call Us</h5>
+						<p><i class="fa fa-phone fa-lg" aria-hidden="true"></i> &nbsp; +254-722828929</p>
+						<p><i class="fa fa-phone fa-lg" aria-hidden="true"></i> &nbsp; +254-735828929</p>
+					</div>
+					<div class="call-area text-center">
+						<h5>Email</h5>
+						<p><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> &nbsp; info@motobacs.co.ke</p>
+						<!-- <p><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> &nbsp; </p> -->
+					</div>
+					<div class="call-area text-center">
+						<h5>Yard</h5>
+						<p><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i> &nbsp; Argwings Kodhek Road, <br> Opposite SomePlace, Hurlinghum, Nairobi</p>
+						<p><i class="fa fa-address-book fa-lg" aria-hidden="true"></i> &nbsp; PQ4X+338, Nairobi</p>
+						<!-- <p><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> &nbsp; </p> -->
+					</div>
+					
+				</div>
+			</div>
+			<div class="copyright-area">
+				<p class="d-flex justify-content-center align-items-center h-100 my-0">Copyright &nbsp; &nbsp;
+					<span>
+						<i class="fas fa-copyright fa-lg"></i>
+					</span>
+					&nbsp; &nbsp;
+					<a href="#" class="text-danger">Motobacs Ltd</a>
+					&nbsp; &nbsp;
+					2020 - &nbsp;<span id="copyright-text"></span>
+				</p>
+			</div>
+		</div>
+	</section>
+	<script>
+		function displayYear(){
+			const d = new Date();
+			document.getElementById('copyright-text').innerHTML = d.getFullYear();
+		}
+	</script>
+
+	<script src="jquery.min.js"></script>
+	<script src="js/isotope.min.js"></script>
+	<script type="text/javascript">
+		var $grid = $('.grid').isotope({
+		  // options
+		});
+		// filter items on button click
+		$('.filter-button-group').on( 'click', 'input', function() {
+		  var filterValue = $(this).attr('data-filter');
+		  $grid.isotope({ filter: filterValue });
+		});
+	</script>
+
+	<!--  Bootstrap Js + Popper Js -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+</body>
+</html>

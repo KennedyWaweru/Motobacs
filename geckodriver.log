@@ -1,0 +1,381 @@
+1633616198799	geckodriver	INFO	Listening on 127.0.0.1:63574
+1633616198962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileyeOJct"
+*** You are running in headless mode.
+1633616202408	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileyeOJct/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633616208404	Marionette	INFO	Listening on port 63579
+1633616208570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 1484 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 3027 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633616574115	geckodriver	INFO	Listening on 127.0.0.1:63798
+1633616574255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile5vDdew"
+*** You are running in headless mode.
+1633616577961	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile5vDdew/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633616583727	Marionette	INFO	Listening on port 63803
+1633616583884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 5658 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 3806 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633616828106	geckodriver	INFO	Listening on 127.0.0.1:64045
+1633616828223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilewYlxDz"
+*** You are running in headless mode.
+1633616831031	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilewYlxDz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633616836776	Marionette	INFO	Listening on port 64050
+1633616836874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 7575 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 1092 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633616942873	geckodriver	INFO	Listening on 127.0.0.1:64233
+1633616943951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileMBhTRQ"
+*** You are running in headless mode.
+1633616946382	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileMBhTRQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633616951335	Marionette	INFO	Listening on port 64240
+1633616951419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 968 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 6724 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633617777800	geckodriver	INFO	Listening on 127.0.0.1:64753
+1633617778868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileVlDnjd"
+*** You are running in headless mode.
+1633617780565	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileVlDnjd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633617785879	Marionette	INFO	Listening on port 64760
+1633617786066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 1863 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 6051 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633618451170	geckodriver	INFO	Listening on 127.0.0.1:65199
+1633618451201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilenpHB8h"
+*** You are running in headless mode.
+1633618453783	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilenpHB8h/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633618459752	Marionette	INFO	Listening on port 65204
+1633618459927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 1381 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 809 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633618910323	geckodriver	INFO	Listening on 127.0.0.1:49282
+1633618910383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilengYwjZ"
+*** You are running in headless mode.
+1633618912038	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilengYwjZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633618916811	Marionette	INFO	Listening on port 49287
+1633618916945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 5958 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 6281 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633619794543	geckodriver	INFO	Listening on 127.0.0.1:49844
+1633619795692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileyCDmTF"
+*** You are running in headless mode.
+1633619798193	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileyCDmTF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633619803943	Marionette	INFO	Listening on port 49851
+1633619804117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 2950 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 312 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633624569443	geckodriver	INFO	Listening on 127.0.0.1:50489
+1633624570462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile3wiqzR"
+*** You are running in headless mode.
+1633624572720	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile3wiqzR/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633624613813	Marionette	INFO	Listening on port 50496
+1633624614326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 7333 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 604 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633624932879	geckodriver	INFO	Listening on 127.0.0.1:51052
+1633624933925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile3k7KJz"
+*** You are running in headless mode.
+1633624939569	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile3k7KJz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633624947354	Marionette	INFO	Listening on port 51059
+1633624947518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 6076 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 32 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633625223265	geckodriver	INFO	Listening on 127.0.0.1:51344
+1633625223381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilezo6u3K"
+*** You are running in headless mode.
+1633625225744	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilezo6u3K/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633625231483	Marionette	INFO	Listening on port 51349
+1633625231591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 4412 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 4153 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633625425316	geckodriver	INFO	Listening on 127.0.0.1:51582
+1633625426331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile2vSMf4"
+*** You are running in headless mode.
+1633625427792	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile2vSMf4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633625432706	Marionette	INFO	Listening on port 51589
+1633625432877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 429 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 5104 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633629089771	geckodriver	INFO	Listening on 127.0.0.1:51911
+1633629090818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileKe9oIg"
+*** You are running in headless mode.
+1633629093155	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileKe9oIg/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633629110861	Marionette	INFO	Listening on port 51918
+1633629111034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 3575 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 7382 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633629453936	geckodriver	INFO	Listening on 127.0.0.1:52277
+1633629454029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileOqS1a1"
+*** You are running in headless mode.
+1633629455907	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileOqS1a1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633629461231	Marionette	INFO	Listening on port 52282
+1633629461415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 3778 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 5112 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633629665026	geckodriver	INFO	Listening on 127.0.0.1:52505
+1633629666100	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileAh36Zi"
+*** You are running in headless mode.
+1633629667820	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileAh36Zi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633629673085	Marionette	INFO	Listening on port 52512
+1633629673218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 3674 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 440 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633629985135	geckodriver	INFO	Listening on 127.0.0.1:52731
+1633629985271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileluzK9E"
+*** You are running in headless mode.
+1633629987743	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileluzK9E/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633629992594	Marionette	INFO	Listening on port 52736
+1633629992708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 2733 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 4890 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633630701188	geckodriver	INFO	Listening on 127.0.0.1:53253
+1633630702226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileTZxUcP"
+*** You are running in headless mode.
+1633630704486	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileTZxUcP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633630710604	Marionette	INFO	Listening on port 53260
+1633630710903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633630710980	Marionette	INFO	Stopped listening on port 53260
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633630997916	geckodriver	INFO	Listening on 127.0.0.1:53379
+1633630997969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilewwpiG3"
+*** You are running in headless mode.
+1633630999867	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofilewwpiG3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633631004897	Marionette	INFO	Listening on port 53384
+1633631004975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 1458 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 3364 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633631353570	Marionette	INFO	Stopped listening on port 53384
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633660832244	geckodriver	INFO	Listening on 127.0.0.1:53928
+1633660833324	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileQQeFyy"
+*** You are running in headless mode.
+1633660835520	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileQQeFyy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633660840939	Marionette	INFO	Listening on port 53935
+1633660841101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EoFyo3zKq1mkgzvYf9HJ3W9DhbWUwEn_nMzaMw4xO6A.js line 1 > eval line 2296 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EoFyo3zKq1mkgzvYf9HJ3W9DhbWUwEn_nMzaMw4xO6A.js line 1 > eval line 581 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633661289154	Marionette	INFO	Stopped listening on port 53935
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633662426357	geckodriver	INFO	Listening on 127.0.0.1:54588
+1633662427222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile1ag9xJ"
+*** You are running in headless mode.
+1633662429838	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile1ag9xJ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633662438313	Marionette	INFO	Listening on port 54595
+1633662438575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 6851 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 2865 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633662637306	Marionette	INFO	Stopped listening on port 54595
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633663112604	geckodriver	INFO	Listening on 127.0.0.1:54900
+1633663113671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileywTb4m"
+*** You are running in headless mode.
+1633663116076	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofileywTb4m/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633663121623	Marionette	INFO	Listening on port 54907
+1633663121896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 819 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 7055 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+JavaScript error: https://assets.jiji.co.ke/static/bundles/js/chunk-main-AdvertItemPage-AdvertItemPage-vue.ee4c206bac43caf0e03a.min.js, line 1: TypeError: this.advert is null
+1633663367929	geckodriver	INFO	Listening on 127.0.0.1:55121
+1633663368959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile5Ey0Vz"
+*** You are running in headless mode.
+1633663370857	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile5Ey0Vz/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633663376437	Marionette	INFO	Listening on port 55128
+1633663376712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 6242 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 4082 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633663429099	geckodriver	INFO	Listening on 127.0.0.1:55294
+1633663430182	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile5jyAPu"
+*** You are running in headless mode.
+1633663432969	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vg/6bswdsv92tz16s_1c281j3km0000gn/T/rust_mozprofile5jyAPu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633663438738	Marionette	INFO	Listening on port 55301
+1633663438887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 5677 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CrTRiM0x34jzDMOFUOmZXNiGO58GemWaFCfr64B-KCA.js line 1 > eval line 4762 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633664532352	Marionette	INFO	Stopped listening on port 55301
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

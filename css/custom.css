@@ -1,0 +1,116 @@
+.navbar{
+	border: 1px solid #ff1a1a;
+}
+.navbar .navbar-brand{
+	font-size: 40px;
+	font-family: 'Federo', sans-serif;
+	color: #ff1a1a;
+}
+.navbar .navbar-brand:hover{
+	text-decoration: none;
+	text-shadow: 2px 2px 5px #ff1a1a;
+	border: 2px solid red;
+	border-radius: 5px;
+}
+.navbar .navbar-collapse .nav-link{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.navbar .navbar-collapse li{
+	padding: 12px 7px;
+}
+.navbar .navbar-collapse .active{
+	background: #33cc33;
+}
+.navbar .navbar-collapse .navbar-nav li:hover{
+	background: #009900;
+	border: 0.2px solid black;
+	border-radius: 5px;
+
+}
+.navbar .navbar-collapse .navbar-nav li:hover > a{
+	text-decoration: none;
+	transform: translateX(7px);
+	color: #fff;
+}
+.navbar .navbar-right .nav-link .phone{
+	font-size: 20px; 
+	color: #ff1a1a;
+}
+
+
+/* Carousel on the index page */
+.welcome-carousel .carousel{
+	height: 60vh;
+	background: #fff;
+	border: 1px solid black;			
+}
+.welcome-carousel .carousel .carousel-inner .carousel-item img{
+	height: 60vh;
+}
+
+.welcome-carousel .carousel .welcome-title{
+	font-size: 25px;
+	font-family: 'Federo', sans-serif;
+	color: #ff1a1a;
+}
+.welcome-carousel .carousel .carousel-control-prev{
+	background-image: linear-gradient(to left, rgba(0, 128, 0, 0.2), rgba(0, 128, 0, 1));
+}
+/*.welcome-carousel .carousel .carousel-control-prev,*/
+.welcome-carousel .carousel .carousel-control-next
+{
+	/*background: rgba(0, 128, 0, 0.3); /* Green background with 30% opacity */
+	background-image: linear-gradient(to right, rgba(0, 128, 0, 0.2), rgba(0, 128, 0, 1));
+}
+.welcome-carousel .carousel .carousel-control-prev .carousel-control-prev-icon,
+.welcome-carousel .carousel .carousel-control-next .carousel-control-next-icon
+{
+	background-color: green;
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) 
+	{ 
+		.welcome-carousel .carousel .carousel-inner .carousel-item img{
+		height: 75vh;
+		}
+		.welcome-carousel .carousel{
+			height: 75vh;
+			background: #fff;
+			border: 1px solid black;			
+		}
+	}
+/* end of carousel styles */
+
+/* Footer content */
+
+.footer .list-group-item a{
+	text-decoration: none;
+	color: #33cc33;			
+}
+.footer .list-group-item:hover a{
+	color: red;
+	padding: 0 4px;
+}
+.footer .call-area i{
+	color: #33cc33;
+}
+
+.footer .map-iframe{
+	height: 500px;
+	padding-bottom: 5px;
+
+}
+
+.footer .map-iframe iframe{
+	border: 2px solid red;
+	border-radius: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer .text-custom{
+	color: red;
+}
+/* End of footer content */
+

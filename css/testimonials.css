@@ -1,0 +1,40 @@
+testimonials.css.testimonials .owl-carousel .rounded-start{
+	/*border: 5px solid red;*/
+	height: 100%;
+}
+.testimonials .owl-carousel .card{
+	box-shadow: 10px 10px 5px grey;
+	border: 1px solid green;
+}
+.testimonials .owl-carousel .card:hover{
+	transform: translateY(2px) translateX(2px);
+	box-shadow: 15px 15px 10px green;
+}
+.testimonials .owl-theme { position: relative; }
+.testimonials .owl-theme .owl-next,
+.testimonials .owl-theme .owl-prev { 
+    background:#000; 
+    width: 40px; 
+    height: 40px;
+    border-radius: 50%;
+    /*line-height:40px; 
+    height: 40px;
+    font-size: 50px; */
+    /*margin: 0 20px;*/
+    margin-top: -30px; 
+    position: absolute; 
+    text-align:center; 
+    top: 50%; 
+    }
+.testimonials .owl-theme .owl-prev { left: -50px; }
+.testimonials .owl-theme .owl-next { right: -50px; }
+.testimonials .owl-theme .owl-next:hover, .testimonials .owl-theme .owl-prev:hover{
+    width: 40px; 
+    height: 45px; 
+    line-height: 45px;
+    font-size: 30px; 
+    color: #ff1a1a;
+}
+.testimonials .owl-theme .rating-star i{
+	color: #ff9900;
+}
